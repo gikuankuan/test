@@ -20,7 +20,7 @@ $year = date("Y");
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<title>各期獎號</title>
+<title>各期的獎號</title>
 
 <head>
 
